@@ -1,0 +1,4 @@
+ingest_cache.json
+__pycache__/
+._*
+.claude/
