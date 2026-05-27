@@ -1,0 +1,4 @@
+pymupdf
+markitdown
+requests
+beautifulsoup4

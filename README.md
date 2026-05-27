@@ -14,6 +14,18 @@ wiki/
   synthesis/     # 여러 출처 종합 페이지
 ```
 
+## 세팅
+
+**1. Python 패키지 설치**
+```bash
+pip install -r requirements.txt
+```
+
+**2. Claude Code CLI 설치**
+
+`ingest.py`는 논문 분석에 `claude --print`를 사용합니다.
+설치: https://claude.ai/code
+
 ## 논문 ingest
 
 ```bash
